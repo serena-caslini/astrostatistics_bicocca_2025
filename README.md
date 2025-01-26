@@ -131,7 +131,7 @@ The class covers 6 credits = 42 hours = 21 lectures of 2 hours each. Our weekly 
 
 - 2022: [dgerosa/astrostatistics_bicocca_2022](https://github.com/dgerosa/astrostatistics_bicocca_2022)
 - 2023: [dgerosa/astrostatistics_bicocca_2023](https://github.com/dgerosa/astrostatistics_bicocca_2023)
-
+- 2024: [dgerosa/astrostatistics_bicocca_2023](https://github.com/dgerosa/astrostatistics_bicocca_2024)
 
 ## A huge thanks to:
 
