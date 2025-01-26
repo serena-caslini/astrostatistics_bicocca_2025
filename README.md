@@ -127,8 +127,8 @@ The class covers 6 credits = 42 hours = 21 lectures of 2 hours each. Our weekly 
 19. **May 26, 8.30**
 20. **May 27, 8.30** (extra lecture, confirm?)
 21. **May 29, 10.30**
-Jun 2, no 2giugno
-Jun 5, 10.30. Davide is away for research
+- Jun 2, holiday
+- Jun 5, 10.30. Davide is away for research
 22. Jun 9, 8.30 (backup slot, confirm?)
 23. Jun 10, 10.30 (backup slot, confirm?)
 24. Jun 12, 10.30 (backup slot, confirm?)
