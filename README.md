@@ -53,13 +53,6 @@ Data mining and machine learning are computational subjects. One does not unders
 
 At various points during the lectures you fill find some **"Time to get your hands dirty"** statements. That means you got to start coding! 
 
-
-## Conceptual map of the class
-
-![Steve_map](https://user-images.githubusercontent.com/7237041/148847588-425431af-7285-403a-844b-ed9d2daf0c9f.png)
-
-Credits: [Steve Taylor](https://stevertaylor.github.io/) (Vanderbilt)
-
 ## Textbook and Resources
 
 The **main textbook** we will be using is:
