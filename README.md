@@ -1,12 +1,12 @@
 # Astrostatistics and Machine Learning
 
 [Davide Gerosa](https://davidegerosa.com/)  - davide.gerosa@unimib.it  
-University of Milano-Bicocca, 2024.
+University of Milano-Bicocca, 2025.
 
 
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dgerosa/astrostatistics_bicocca_2024/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dgerosa/astrostatistics_bicocca_2025/HEAD)
 &emsp; [![](https://custom-icon-badges.herokuapp.com/badge/launch-unimib%20virtual%20machine-orange.svg?logo=container&logoColor=white)](https://libaas-lessons.si.unimib.it)
 
 
@@ -95,39 +95,43 @@ We will make heavy usage of the python programming language. If you need to refr
 - [Python Programming for Scientists"](https://astrofrog.github.io/py4sci/), T. Robitaille et al.
 - ["Learning Scientific Programming with Python"](https://www.cambridge.org/core/books/learning-scientific-programming-with-python/3D264483BC7B380A3059B3861C661237), Hill, Cambridge University Press, 2020. Supporting code: [scipython.com](https://scipython.com/).
 
-## 2024 class schedule
+## 2025 Class schedule
 
-The class covers 6 credits = 42 hours = 21 lectures of 2 hours each. Our weekly timeslots are Monday 8.30am-10.30am (sorry) and Thursday 10.30am-12.30pm. Note a few extra lectures on different days/times as well as a few weeks where we're going to skip classes). We're in room U2-05 on the main Bicocca campus.
+The class covers 6 credits = 42 hours = 21 lectures of 2 hours each. Our weekly timeslots are Monday 8.30am-10.30am (sorry) and Thursday 10.30am-12.30pm. Note a few extra lectures on different days/times as well as a few weeks where we're going to skip classes). We're in room U2-05 on the main Bicocca campus
 
- 1. **04-03-24, 8.30am.**
- 2. **07-03-24, 10.30am.**
- 3. **11-03-24, 8.30am.**
- 4. **14-03-24, 10.30am.**
- - 18-03-24, Davide in a graduation committee
- 5. **19-03-24, 8.30am.** (Note different day!) 
- 6. **21-03-24, 10.30am.**
- 7. **25-03-24, 10.30am.** (Note different time!)
- - 28-03-24 Holiday
- - 01-04-24 Holiday
- - 04-04-24, Davide is away for research
- 8. **08-04-24, 8.30am.**
- - 11-04-24, Davide is away for research
- 9. **12-04-24, 8.30am.** (Note different day!)
- 10. **15-04-24, 8.30am.**
- - 18-04-24, Davide is away for research
- 11. **22-04-24, 8.30 am.**
- - 25-04-24 Holiday
- 12. **29-04-24, 8.30am.**
- 13. **30-04-24 10.30** (Note different day!)  
- 14. **02-05-24, 10.30am.**
- 15. **06-05-24, 8.30am.**
- 16. **09-05-24, 10.30am.**
- 17. **13-05-24, 8.30am.**
- 18. **16-05-24, 10.30am.**
- 19. **20-05-24, 8.30am.**
- 20. **23-05-24, 10.30am.**
- 21. **27-05-24, 8.30am.**
- -  30-05-24, 10.30am. Could add a lecture here if we need it.
+1. **Mar 3, 8.30**
+- Mar 6, holiday
+2. **Mar 10, 8.30**
+3. **Mar 13, 10.30**
+4. **Mar 17, 8.30**
+5. **Mar 20, 10.30**
+- Mar 24, Davide is away for research
+- Mar 27, Davide is away for research
+6. **Mar 31, 8.30**
+7. **Apr 3, 10.30**
+8. **Apr 7, 8.30**
+9. **Apr 8, 10.30** (extra lecture, confirm?)
+10. **Apr 10, 10.30**
+11. **Apr 14, 8.30**
+- Apr 17, holiday
+- Apr 21, holiday
+12. **Apr 24, 10.30**
+13. **Apr 28, 8.30**
+- May 1, holiday
+14. **May 5, 8.30**
+- May 8, 10.30. Davide is away for research
+15. **May 12, 8.30**
+16. **May 15, 10.30**
+17. **May 19, 8.30**
+18. **May 22, 10.30**
+19. **May 26, 8.30**
+20. **May 27, 8.30** (extra lecture, confirm?)
+21. **May 29, 10.30**
+Jun 2, no 2giugno
+Jun 5, 10.30. Davide is away for research
+22. Jun 9, 8.30 (backup slot, confirm?)
+23. Jun 10, 10.30 (backup slot, confirm?)
+24. Jun 12, 10.30 (backup slot, confirm?)
 
 
 ## Past editions
