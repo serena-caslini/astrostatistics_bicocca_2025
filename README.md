@@ -90,7 +90,9 @@ We will make heavy usage of the python programming language. If you need to refr
 
 ## 2025 Class schedule
 
-The class covers 6 credits = 42 hours = 21 lectures of 2 hours each. Our weekly timeslots are Monday 8.30am-10.30am (sorry) and Thursday 10.30am-12.30pm. Note a few extra lectures on different days/times as well as a few weeks where we're going to skip classes). We're in room U2-05 on the main Bicocca campus
+The class covers 6 credits = 42 hours = 21 lectures of 2 hours each. Our weekly timeslots are Monday 8.30am-10.30am (sorry) and Thursday 10.30am-12.30pm. Note a few extra lectures on different days/times as well as a few weeks where we're going to skip classes). We're in room U2-05 on the main Bicocca campus.
+
+[Here is a public calendar](https://calendar.google.com/calendar/u/0?cid=N2IzZWI3OGYzNDU2ODJjMTJjMDY1ODU1YTBlNDljNmIyMWQyZjFkYjcyYjI0NGJmNzUyZGQ1MzRhNDdjNjA2NkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) with these dates, which you can import into your calendar software.
 
 1. **Mar 3, 8.30**
 - Mar 6, holiday
