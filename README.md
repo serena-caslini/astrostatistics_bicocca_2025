@@ -105,7 +105,7 @@ Our schedule is as follows. [Here is a public calendar](https://calendar.google.
 6. **Mar 31, 8.30**
 7. **Apr 3, 10.30**
 8. **Apr 7, 8.30**
-9. **Apr 8, 10.30** (extra lecture, confirm?)
+9. **Apr 8, 10.30** (extra lecture)
 10. **Apr 10, 10.30**
 11. **Apr 14, 8.30**
 - Apr 17, holiday
@@ -120,13 +120,13 @@ Our schedule is as follows. [Here is a public calendar](https://calendar.google.
 17. **May 19, 8.30**
 18. **May 22, 10.30**
 19. **May 26, 8.30**
-20. **May 27, 8.30** (extra lecture, confirm?)
+20. **May 27, 8.30** (extra lecture)
 21. **May 29, 10.30**
 - Jun 2, holiday
 - Jun 5, 10.30. Davide is away for research
-22. Jun 9, 8.30 (backup slot, confirm?)
-23. Jun 10, 10.30 (backup slot, confirm?)
-24. Jun 12, 10.30 (backup slot, confirm?)
+22. Jun 9, 8.30 (backup slot)
+23. Jun 10, 10.30 (backup slot)
+24. Jun 12, 10.30 (backup slot)
 
 
 ## Past editions
