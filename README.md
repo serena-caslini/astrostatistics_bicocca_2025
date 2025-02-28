@@ -132,9 +132,10 @@ Our schedule is as follows. [Here is a public calendar](https://calendar.google.
 
 ## Past editions
 
-- 2022: [dgerosa/astrostatistics_bicocca_2022](https://github.com/dgerosa/astrostatistics_bicocca_2022)
-- 2023: [dgerosa/astrostatistics_bicocca_2023](https://github.com/dgerosa/astrostatistics_bicocca_2023)
-- 2024: [dgerosa/astrostatistics_bicocca_2023](https://github.com/dgerosa/astrostatistics_bicocca_2024)
+- 2022: [github.com/dgerosa/astrostatistics_bicocca_2022](https://github.com/dgerosa/astrostatistics_bicocca_2022)
+- 2023: [github.com/dgerosa/astrostatistics_bicocca_2023](https://github.com/dgerosa/astrostatistics_bicocca_2023)
+- 2024: [github.com/dgerosa/astrostatistics_bicocca_2024](https://github.com/dgerosa/astrostatistics_bicocca_2024)
+- Current edition: [dgerosa.github.io/astrostatistics_bicocca](https://dgerosa.github.io/astrostatistics_bicocca)
 
 ## A huge thanks to:
 
